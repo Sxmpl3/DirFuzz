@@ -5,6 +5,8 @@ DirFuzz is a Python-based tool designed for directory and subdomain fuzzing. Thi
 
 # Features
 
-Directory fuzzing to discover existing paths on a domain.
-Subdomain fuzzing to find additional subdomains related to a target domain.
+Directory fuzzing to discover existing paths on a domain
+
+Subdomain fuzzing to find additional subdomains related to a target domain
+
 Simple interface enabling quick and effective scanning.
