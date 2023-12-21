@@ -9,4 +9,4 @@ Directory fuzzing to discover existing paths on a domain
 
 Subdomain fuzzing to find additional subdomains related to a target domain
 
-Simple interface enabling quick and effective scanning.
+Simple interface enabling quick and effective scanning
