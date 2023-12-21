@@ -10,3 +10,7 @@ Directory fuzzing to discover existing paths on a domain
 Subdomain fuzzing to find additional subdomains related to a target domain
 
 Simple interface enabling quick and effective scanning
+
+
+
+![image](https://github.com/Sxmpl3/DirFuzz/assets/116309678/e1009329-51b4-4e31-9ba8-8e05861e7ff4)
