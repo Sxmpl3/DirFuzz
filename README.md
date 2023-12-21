@@ -13,4 +13,5 @@ Simple interface enabling quick and effective scanning
 
 
 
-![image](https://github.com/Sxmpl3/DirFuzz/assets/116309678/e1009329-51b4-4e31-9ba8-8e05861e7ff4)
+
+![image](https://github.com/Sxmpl3/DirFuzz/assets/116309678/6324a995-4d6c-40b6-92a0-9cdfd140f488)
